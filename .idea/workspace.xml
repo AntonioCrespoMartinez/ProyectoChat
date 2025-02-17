@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="75ea82e5-3c92-4428-bdf5-e92ad0944746" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/proyectochat/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/proyectochat/hello-view.fxml" afterDir="false" />
-    </list>
+    <list default="true" id="75ea82e5-3c92-4428-bdf5-e92ad0944746" name="Changes" comment="Inicio" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +12,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="24e454f8-e9cb-485d-970c-a7a3b2edb8db" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 6
@@ -30,7 +30,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "com.codeium.enabled": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -42,6 +43,23 @@
       <option name="presentableId" value="Default" />
       <updated>1739823892659</updated>
     </task>
+    <task id="LOCAL-00001" summary="Inicio">
+      <option name="closed" value="true" />
+      <created>1739824314130</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1739824314130</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Inicio" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inicio" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
