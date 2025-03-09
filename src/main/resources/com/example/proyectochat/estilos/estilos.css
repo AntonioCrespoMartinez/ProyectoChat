@@ -1,0 +1,29 @@
+/* Estilos para la aplicación de chat */
+
+.root {
+    -fx-font-family: "Arial";
+    -fx-background-color: #F9F9F9;
+}
+
+.label {
+    -fx-font-size: 14px;
+    -fx-font-weight: bold;
+}
+
+.text-area {
+    -fx-control-inner-background: #FFFFFF;
+    -fx-border-color: #CCCCCC;
+    -fx-border-radius: 5px;
+    -fx-padding: 5px;
+}
+
+.button {
+    -fx-background-color: #4CAF50;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    -fx-border-radius: 5px;
+}
+
+.button:hover {
+    -fx-background-color: #45A049;
+}
