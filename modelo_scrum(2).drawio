@@ -1,0 +1,170 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16" pages="3">
+  <diagram name="Backlog" id="ibpSCjqeiJIwmJ1oxMrk">
+    <mxGraphModel dx="1194" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7Kc3XWsI4NXQ4NdzzWup-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Historia 1&lt;/h1&gt;&lt;p&gt;El usuario tiene que conectarse a la red.&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;spacingLeft=5;spacingTop=5;spacing=5;spacingBottom=5;spacingRight=5;fillColor=default;strokeColor=default;" parent="1" vertex="1">
+          <mxGeometry x="40" y="157" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="7Kc3XWsI4NXQ4NdzzWup-7" value="" style="group" parent="1" connectable="0" vertex="1">
+          <mxGeometry x="40" y="30" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7Kc3XWsI4NXQ4NdzzWup-3" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.containers.userFemale;strokeColor=#666666;strokeColor2=#008cff;" parent="7Kc3XWsI4NXQ4NdzzWup-7" vertex="1">
+          <mxGeometry width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7Kc3XWsI4NXQ4NdzzWup-4" value="&lt;div&gt;Cliente 1&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="7Kc3XWsI4NXQ4NdzzWup-7" vertex="1">
+          <mxGeometry x="40" y="5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7Kc3XWsI4NXQ4NdzzWup-8" value="" style="group" parent="1" connectable="0" vertex="1">
+          <mxGeometry x="40" y="90" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7Kc3XWsI4NXQ4NdzzWup-2" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.containers.userMale;strokeColor=none;strokeColor2=#008cff;" parent="7Kc3XWsI4NXQ4NdzzWup-8" vertex="1">
+          <mxGeometry width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7Kc3XWsI4NXQ4NdzzWup-5" value="&lt;div&gt;Cliente 2&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="7Kc3XWsI4NXQ4NdzzWup-8" vertex="1">
+          <mxGeometry x="40" y="5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7Kc3XWsI4NXQ4NdzzWup-9" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Historia 2&lt;br&gt;&lt;/h1&gt;&lt;p&gt;El usuario tiene que ver otros usuarios conectados.&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;spacingLeft=5;spacingTop=5;spacing=5;spacingBottom=5;spacingRight=5;fillColor=default;strokeColor=default;" parent="1" vertex="1">
+          <mxGeometry x="40" y="290" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="o4K7ytaoeIAk3HAydhIs-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Historia 3&lt;br&gt;&lt;/h1&gt;&lt;p&gt;El usuario tiene que poder enviar mensajes de texto al chat general.&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;spacingLeft=5;spacingTop=5;spacing=5;spacingBottom=5;spacingRight=5;fillColor=default;strokeColor=default;" parent="1" vertex="1">
+          <mxGeometry x="40" y="420" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="o4K7ytaoeIAk3HAydhIs-2" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Historia 4&lt;br&gt;&lt;/h1&gt;&lt;p&gt;El usuario tiene que poder ver los mensajes del chat general y quien los ha enviado.&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;spacingLeft=5;spacingTop=5;spacing=5;spacingBottom=5;spacingRight=5;fillColor=default;strokeColor=default;" parent="1" vertex="1">
+          <mxGeometry x="240" y="157" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="o4K7ytaoeIAk3HAydhIs-3" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Historia 5&lt;br&gt;&lt;/h1&gt;&lt;p&gt;El usuario tiene que poder realizar chats privados con cualquier usuario conectado.&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;spacingLeft=5;spacingTop=5;spacing=5;spacingBottom=5;spacingRight=5;fillColor=default;strokeColor=default;" parent="1" vertex="1">
+          <mxGeometry x="240" y="290" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="o4K7ytaoeIAk3HAydhIs-4" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Historia 6&lt;br&gt;&lt;/h1&gt;&lt;p&gt;El usuario tiene que poder realizar varios chats privados al mismo tiempo.&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;spacingLeft=5;spacingTop=5;spacing=5;spacingBottom=5;spacingRight=5;fillColor=default;strokeColor=default;" parent="1" vertex="1">
+          <mxGeometry x="240" y="420" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="o4K7ytaoeIAk3HAydhIs-5" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Historia 7&lt;br&gt;&lt;/h1&gt;&lt;p&gt;El usuario tiene que poder enviar ficheros en los chats privados.&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;spacingLeft=5;spacingTop=5;spacing=5;spacingBottom=5;spacingRight=5;fillColor=default;strokeColor=default;" parent="1" vertex="1">
+          <mxGeometry x="440" y="157" width="180" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="dIf-6CehBCPpUC1TRIqf" name="Sprintlog">
+    <mxGraphModel dx="1179" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Iqgz6M43RzRNZjoqgLr8-1" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="1153.157894736842" as="sourcePoint" />
+            <mxPoint x="281" y="158" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Iqgz6M43RzRNZjoqgLr8-2" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="1160" as="sourcePoint" />
+            <mxPoint x="561" y="158" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Iqgz6M43RzRNZjoqgLr8-3" value="PENDIENTE" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="90" y="130" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Iqgz6M43RzRNZjoqgLr8-4" value="HACIENDO" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="370" y="130" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Iqgz6M43RzRNZjoqgLr8-5" value="TERMINADO" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="650" y="130" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Iqgz6M43RzRNZjoqgLr8-7" value="&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;Programado&lt;/li&gt;&lt;li&gt;Documentado&lt;/li&gt;&lt;li&gt;Probado&lt;/li&gt;&lt;li&gt;Integrado&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;align=left;position2=0.36;" parent="1" vertex="1">
+          <mxGeometry x="680" y="30" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="LBgsxKphkuaAK5QPwy_K-2" value="ANTONIO" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#FFFF66;" parent="1" vertex="1">
+          <mxGeometry x="30" y="20" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LBgsxKphkuaAK5QPwy_K-3" value="MIREIA" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#FF99CC;" parent="1" vertex="1">
+          <mxGeometry x="30" y="60" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LBgsxKphkuaAK5QPwy_K-4" value="ROSALÍA" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#7EA6E0;strokeColor=#7EA6E0;" parent="1" vertex="1">
+          <mxGeometry x="140" y="20" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LBgsxKphkuaAK5QPwy_K-5" value="JOTA" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#FF6666;" parent="1" vertex="1">
+          <mxGeometry x="140" y="60" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8auLFGelF9cu01JbPtdB-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Historia 1&lt;/h1&gt;&lt;p&gt;El usuario tiene que conectarse a la red.&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;spacingLeft=5;spacingTop=5;spacing=5;spacingBottom=5;spacingRight=5;fillColor=default;strokeColor=default;" parent="1" vertex="1">
+          <mxGeometry x="30" y="180" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="8auLFGelF9cu01JbPtdB-2" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Historia 2&lt;br&gt;&lt;/h1&gt;&lt;p&gt;El usuario tiene que ver otros usuarios conectados.&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;spacingLeft=5;spacingTop=5;spacing=5;spacingBottom=5;spacingRight=5;fillColor=default;strokeColor=default;" parent="1" vertex="1">
+          <mxGeometry x="30" y="313" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="JlPZtyF0yA-xA-W05ED6-1" value="&lt;div&gt;&lt;b&gt;TAREA 1&lt;/b&gt;&lt;/div&gt;APLICACION JAVA QUE MANDE UN PAQUETE DE BROADCAST A UN PUERTO Y MANDANDO MENSAJE UN USUARIO&lt;div&gt;DESPUÉS OTRA APLICACIÓN QUE ESCUCHE EL PUERTO Y MUESTRE EL MENSAJE&lt;/div&gt;&lt;div&gt;(EMISOR - RECEPTOR)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF66FF;" parent="1" vertex="1">
+          <mxGeometry x="580" y="180" width="260" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="JlPZtyF0yA-xA-W05ED6-2" value="&lt;b&gt;TAREA 2&lt;/b&gt;&lt;div&gt;APLICACION JAVA FX QUE LEA UN FICHERO DE CONFIGURACIÓN Y QUE MUESTRE EL PUERTO DEL CHAT GENERAL&lt;/div&gt;&lt;div&gt;MODELO VISTA CONTROLADOR (M.V.C)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#7EA6E0,#CD4ACD);strokeColor=light-dark(#1A1A1A,#FFFFFF);" parent="1" vertex="1">
+          <mxGeometry x="580" y="700" width="260" height="128.5" as="geometry" />
+        </mxCell>
+        <mxCell id="JlPZtyF0yA-xA-W05ED6-3" value="&lt;b&gt;TAREA 3&lt;/b&gt;&lt;div&gt;INTERFAZ DE USUARIO (BOCETO)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B266FF;" parent="1" vertex="1">
+          <mxGeometry x="580" y="470" width="260" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="JlPZtyF0yA-xA-W05ED6-4" value="&lt;b&gt;TAREA 4&lt;/b&gt;&lt;div&gt;PROBAR COMO METER CSS EN JAVAFX&lt;/div&gt;&lt;div&gt;Y MONTAR EL GIT&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFF66;" parent="1" vertex="1">
+          <mxGeometry x="580" y="353" width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JlPZtyF0yA-xA-W05ED6-5" value="&lt;b&gt;TAREA 5&lt;/b&gt;&lt;div&gt;CONECTAR Y MOSTRAR USUARIOS CONECTADOS&lt;/div&gt;&lt;div&gt;&lt;i&gt;CUANDO SE TERMINE LA TAREA 1&lt;/i&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF6666;" parent="1" vertex="1">
+          <mxGeometry x="580" y="610" width="260" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="JlPZtyF0yA-xA-W05ED6-6" value="&lt;b&gt;TAREA 6&lt;/b&gt;&lt;div&gt;DOCUMENTACION EN FORMATO JAVA DOC&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FF66FF,#CD4ACD);" parent="1" vertex="1">
+          <mxGeometry x="580" y="860" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dulBtyCHsYpDMb24Jx8R-1" value="&lt;b&gt;TAREA 7&lt;/b&gt;&lt;div&gt;MANUAL DE USUARIO&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FF66FF,#CD4ACD);" vertex="1" parent="1">
+          <mxGeometry x="580" y="960" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dulBtyCHsYpDMb24Jx8R-2" value="&lt;b&gt;TAREA 8&lt;/b&gt;&lt;div&gt;GUIA DE ESTILOS&amp;nbsp;&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#7EA6E0,#CD4ACD);" vertex="1" parent="1">
+          <mxGeometry x="580" y="1060" width="260" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="PvtxPt99iVi0E-1Qpldi" name="Página-3">
+    <mxGraphModel dx="1493" dy="695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="krlsEIGGbVsDkUH8Z8WH-2" value="LOGO" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="160" y="600" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="krlsEIGGbVsDkUH8Z8WH-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="krlsEIGGbVsDkUH8Z8WH-6" target="krlsEIGGbVsDkUH8Z8WH-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="krlsEIGGbVsDkUH8Z8WH-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="560" width="360" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="krlsEIGGbVsDkUH8Z8WH-9" value="&amp;nbsp;Introduce tu nombre..." style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="90" y="700" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="krlsEIGGbVsDkUH8Z8WH-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="520" y="560" width="360" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="krlsEIGGbVsDkUH8Z8WH-15" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="krlsEIGGbVsDkUH8Z8WH-12" target="krlsEIGGbVsDkUH8Z8WH-12" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="680" as="sourcePoint" />
+            <mxPoint x="510" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="krlsEIGGbVsDkUH8Z8WH-16" value="" style="endArrow=none;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" parent="1" source="krlsEIGGbVsDkUH8Z8WH-12" target="krlsEIGGbVsDkUH8Z8WH-12" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="680" as="sourcePoint" />
+            <mxPoint x="510" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="krlsEIGGbVsDkUH8Z8WH-17" value="Personas conectadas" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="530" y="570" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="krlsEIGGbVsDkUH8Z8WH-18" value="Chat grupal" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="650" y="575" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cqRuGb_5jS6I6YU9yfow-1" value="&amp;nbsp;Introduce tu nombre..." style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="90" y="740" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cqRuGb_5jS6I6YU9yfow-2" value="LOGO" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="180" y="585" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
