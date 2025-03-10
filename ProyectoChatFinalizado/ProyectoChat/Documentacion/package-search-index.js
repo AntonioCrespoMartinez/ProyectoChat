@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"m":"chats.vistas","l":"chats"},{"m":"chats.vistas","l":"chats.controladores"},{"m":"chats.vistas","l":"chats.modelo"},{"m":"chats.vistas","l":"chats.vistas"}];updateSearchResults();

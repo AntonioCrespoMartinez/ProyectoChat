@@ -1,0 +1,5 @@
+module:chats.vistas
+chats
+chats.controladores
+chats.modelo
+chats.vistas
