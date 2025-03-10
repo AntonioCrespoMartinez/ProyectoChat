@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.image.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane fx:id="root" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="700.0" prefWidth="900.0" xmlns="http://javafx.com/javafx/17.0.2-ea" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <VBox prefHeight="700.0" prefWidth="220.0" style="-fx-background-color: #98dffa;" />
+      <VBox layoutX="107.0" layoutY="191.0" prefHeight="700.0" prefWidth="680.0" style="-fx-background-color: #808080;" AnchorPane.bottomAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+         <children>
+            <AnchorPane prefHeight="700.0" prefWidth="680.0" style="-fx-background-color: #000000;">
+               <children>
+                  <TextField fx:id="nombreUsuario" layoutX="101.0" layoutY="539.0" prefHeight="37.0" prefWidth="336.0" promptText="NOMBRE DE USUARIO">
+                     <font>
+                        <Font name="System Italic" size="14.0" />
+                     </font></TextField>
+                  <Button layoutX="155.0" layoutY="594.0" mnemonicParsing="false" onAction="#iniciarSesion" prefHeight="37.0" prefWidth="220.0" style="-fx-background-color: #e18fed;" text="INICIAR SESIÓN" textFill="WHITE">
+                     <font>
+                        <Font name="System Bold Italic" size="20.0" />
+                     </font></Button>
+                  <ImageView fitHeight="485.0" fitWidth="480.0" layoutX="21.0" layoutY="42.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../images/logoHabloo.png" />
+                     </image>
+                  </ImageView>
+               </children>
+            </AnchorPane>
+         </children>
+      </VBox>
+   </children>
+</AnchorPane>

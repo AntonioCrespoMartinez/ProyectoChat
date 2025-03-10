@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.image.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane fx:id="root" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="700.0" prefWidth="900.0" xmlns="http://javafx.com/javafx/17.0.2-ea" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <VBox prefHeight="700.0" prefWidth="220.0" style="-fx-background-color: #DCDCDC;">
+         <children>
+            <AnchorPane prefHeight="700.0" prefWidth="220.0" style="-fx-border-color: black;">
+               <children>
+                  <AnchorPane prefHeight="100.0" prefWidth="220.0" style="-fx-background-color: #98dffa; -fx-border-color: black;">
+                     <children>
+                        <Text layoutX="17.0" layoutY="58.0" strokeType="OUTSIDE" strokeWidth="0.0" text="USUARIOS CONECTADOS" textAlignment="CENTER">
+                           <font>
+                              <Font name="System Bold Italic" size="16.0" />
+                           </font>
+                        </Text>
+                     </children>
+                  </AnchorPane>
+                  <VBox fx:id="listaUsuarios" prefHeight="600.0" prefWidth="220.0" style="-fx-background-color: #ffffff;" AnchorPane.bottomAnchor="0.0" />
+               </children>
+            </AnchorPane>
+         </children></VBox>
+      <VBox layoutX="107.0" layoutY="191.0" prefHeight="700.0" prefWidth="680.0" style="-fx-background-color: #808080;" AnchorPane.bottomAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+         <children>
+            <AnchorPane prefHeight="700.0" prefWidth="680.0" style="-fx-border-color: black;">
+               <children>
+                  <AnchorPane prefHeight="100.0" prefWidth="680.0" style="-fx-background-color: #98dffa; -fx-border-color: black;" AnchorPane.topAnchor="0.0">
+                     <children>
+                        <Text layoutX="243.0" layoutY="64.0" strokeType="OUTSIDE" strokeWidth="0.0" text="CHAT PÚBLICO" textAlignment="CENTER">
+                           <font>
+                              <Font name="System Bold Italic" size="35.0" />
+                           </font>
+                        </Text>
+                     </children></AnchorPane>
+                  <AnchorPane prefHeight="75.0" prefWidth="680.0" style="-fx-background-color: #e7e4e4; -fx-border-color: black;" AnchorPane.bottomAnchor="0.0">
+                     <children>
+                        <TextField fx:id="cuadroMensaje" layoutX="20.0" layoutY="19.0" prefHeight="38.0" prefWidth="639.0" style="-fx-border-radius: 10;" />
+                        <Button layoutX="607.0" layoutY="25.0" mnemonicParsing="false" onAction="#enviarMensaje" style="-fx-background-color: transparent;">
+                           <graphic>
+                              <ImageView fitHeight="20.0" fitWidth="50.0" pickOnBounds="true" preserveRatio="true">
+                                 <image>
+                                    <Image url="@../images/enviar.png" />
+                                 </image>
+                              </ImageView>
+                           </graphic>
+                        </Button>
+                     </children>
+                  </AnchorPane>
+                  <AnchorPane fx:id="vistaMensajes" layoutX="240.0" layoutY="250.0" prefHeight="200.0" prefWidth="200.0" style="-fx-background-color: #ffffff;" AnchorPane.bottomAnchor="75.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="100.0" />
+               </children>
+            </AnchorPane>
+         </children>
+      </VBox>
+   </children>
+</AnchorPane>
